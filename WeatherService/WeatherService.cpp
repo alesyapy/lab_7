@@ -1,6 +1,7 @@
 ﻿#include <iostream>
+#include "Weather.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    return 0;
 }
